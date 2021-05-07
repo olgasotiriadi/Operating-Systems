@@ -1,0 +1,4 @@
+The operating system has several functions. 
+One of them is managing programs. That means that the operating system allows two or more programms run at the same time.
+Depending on the user's choice, one program is located in the foreground and the others are in the background.
+The program in the foreground is active, the one  that you are currently use.
