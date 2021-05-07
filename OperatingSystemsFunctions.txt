@@ -2,3 +2,7 @@ The operating system has several functions.
 One of them is managing programs. That means that the operating system allows two or more programms run at the same time.
 Depending on the user's choice, one program is located in the foreground and the others are in the background.
 The program in the foreground is active, the one  that you are currently use.
+
+The second function of the operating system is managing memory. The goal of managing memory is to optimize the usage of the computer memory.
+When it is needed, the operating system allocate a space of memory for keeping data, instructions or files, while they are being processed. 
+
