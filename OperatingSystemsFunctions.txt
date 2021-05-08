@@ -4,5 +4,8 @@ Depending on the user's choice, one program is located in the foreground and the
 The program in the foreground is active, the one  that you are currently use.
 
 The second function of the operating system is managing memory. The goal of managing memory is to optimize the usage of the computer memory.
-When it is needed, the operating system allocate a space of memory for keeping data, instructions or files, while they are being processed. 
+When it is needed, the operating system allocate a space of memory for keeping data, instructions or files, while they are being processed.
+
+The third function of opearting system is coordinating tasks. The operating system determines the order in which the tasks is processed. 
+The tasks are recivieng data, processing instructions, printing, transfering items from storage to memory and so on.
 
